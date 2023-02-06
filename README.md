@@ -1,5 +1,5 @@
 
-> Open this page at [https://mbakhtar.github.io/plants-pollinators-tutorial-2/](https://mbakhtar.github.io/plants-pollinators-tutorial-2/)
+> Open this page at [https://mbakhtar.github.io/plants-pollinators-tutorial-2/](https://makecode.microbit.org/#tutorial:github:mbakhtar/plants-pollinators-tutorial-2/tutorial2)
 
 ## Use as Extension
 
